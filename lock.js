@@ -4,7 +4,7 @@
   'use strict';
 
   var CFG = {
-    API_URL: 'PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE',
+    API_URL: 'https://script.google.com/macros/s/AKfycbw1pVXe5xxXizTEuyAoVclLtuhg8zoC2cFxTgaAPN-tR-LT5jGD7s8k2lM_QuWxKYAQ/exec',
     PRODUCT: 'frame-your-world',   /* must match PRODUCT in the Settings sheet */
     VERIFY_HOURS: 6,             /* how often an unlocked device re-checks its code (when online) */
     TIMEOUT_MS: 25000
