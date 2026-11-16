@@ -18,7 +18,7 @@
   try {
     /* ---------- edit the words and colours here ---------- */
     var TEXT = {
-      author: 'Rev. Chris Johnson, PhD',
+      author: 'REV. DON VICTOR, PHD',
       line1: 'FRAME YOUR',
       line2: 'WORLD',
       tagline: 'A Five Minute Devotional to Speak Your Future',
@@ -29,7 +29,7 @@
       /* words printed on the little book picture */
       spine: 'Frame Your World',
       bookLine: 'A 31-DAY DEVOTIONAL',
-      bookAuthor: 'REV. CHRIS JOHNSON'
+      bookAuthor: 'REV. DON VICTOR,PHD'
     };
     var C = {
       brand: '#008751', brandMid: '#006B40', brandDeep: '#00492B',
